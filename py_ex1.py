@@ -13,7 +13,7 @@ fields = ["name","duration","tutor","month","mode"]
 
 
 #Using while loop
-dict = {name: "new"}
+dict = { name: "new"}
 
 list_courses = list(course.items())
 
