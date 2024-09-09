@@ -12,6 +12,9 @@ fields = ["name","duration","tutor","month","mode"]
 #         print("course details not found")
 
 
+#Using while loop
+dict = { name: "new"}
+
 list_courses = list(course.items())
 
 index = 0
